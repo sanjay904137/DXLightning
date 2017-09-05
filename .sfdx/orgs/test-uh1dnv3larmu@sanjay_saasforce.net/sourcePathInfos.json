@@ -1,0 +1,206 @@
+[
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603230503,
+            "changeTime": 1504603230503,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603230522,
+            "changeTime": 1504603230522,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504605730759,
+            "changeTime": 1504605730759,
+            "contentHash": "0944400d78c67597d2ede516d74ccbaf56843acd"
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603959487,
+            "changeTime": 1504603959487,
+            "contentHash": "bb5e9a367276d9ed486a41f39ea4853de1aaf7df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504603959517,
+            "changeTime": 1504603959517,
+            "contentHash": "6e719e5c800108fbaffbf2066f493664a2ba8f28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp",
+            "isDirectory": false,
+            "size": 1617,
+            "modifiedTime": 1504604164959,
+            "changeTime": 1504604164959,
+            "contentHash": "37b6b5fbcba5f74d020026cf0f93cfc6f381ac7b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1504603959492,
+            "changeTime": 1504603959492,
+            "contentHash": "8aa185141635929bfe1cb48799647c1eb1f1a0d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContact.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1504603959514,
+            "changeTime": 1504603959514,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactController.js",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1504604378461,
+            "changeTime": 1504604378461,
+            "contentHash": "a87cc0780f27e1b47ad87dec4818177489337cbb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1504603959511,
+            "changeTime": 1504603959511,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\aura\\quickContact\\quickContactRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1504603959517,
+            "changeTime": 1504603959517,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning",
+        {
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1504604568876,
+            "changeTime": 1504604568876,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9992,
+            "modifiedTime": 1504605730770,
+            "changeTime": 1504605730770,
+            "contentHash": "aeec3355eee82892fcf5fef2f675eee82213f305"
+        }
+    ],
+    [
+        "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\sanjay.kumar1\\DXLightning\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1504605730769,
+            "changeTime": 1504605730769,
+            "contentHash": "dee68e37af7165c4d2a32060320fdbf748c123a5"
+        }
+    ]
+]
